@@ -2,5 +2,5 @@
   "users": [
     { "id": 1, "name": "Molly Jones", "avatar": "molly" },
     { "id": 2, "name": "Mark Doe", "avatar": "mark" }
-  ],
+  ]
 }
