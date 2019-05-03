@@ -1,14 +1,65 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  users: [
+            {
+                id: 1,
+                name: 'Molly Jones',
+                avatar: 'molly',
+            },
+            {
+                id: 2,
+                name: 'Mark Doe',
+                avatar: 'mark',
+            },
+            {
+                id: 3,
+                name: 'Molly Jones',
+                avatar: 'molly',
+            },
+            {
+                id: 4,
+                name: 'Mark Doe',
+                avatar: 'mark',
+            },
+            {
+                id: 5,
+                name: 'Molly Jones',
+                avatar: 'molly',
+            },
+            {
+                id: 6,
+                name: 'Mark Doe',
+                avatar: 'mark',
+            },
+            {
+                id: 7,
+                name: 'Molly Jones',
+                avatar: 'molly',
+            },
+            {
+                id: 8,
+                name: 'Mark Doe',
+                avatar: 'mark',
+            },   {
+                id: 9,
+                name: 'Molly Jones',
+                avatar: 'molly',
+            },
+            {
+                id: 10,
+                name: 'Mark Doe',
+                avatar: 'mark',
+            },
+            {
+                id: 11,
+                name: 'Molly Jones',
+                avatar: 'molly',
+            },
+            {
+                id: 12,
+                name: 'Mark Doe',
+                avatar: 'mark',
+            },
+
+
+        ]
 }
