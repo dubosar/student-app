@@ -58,6 +58,4 @@ users: [
                 name: 'Mark Doe',
                 avatar: 'mark',
             },
-
-
-        ]
+]
